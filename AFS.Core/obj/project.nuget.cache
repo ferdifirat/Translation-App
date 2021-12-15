@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "een3nYn34+anwzE/muugfy1l4uE2BYjAYSNBEAzBYq6xT2HsEz1wGQed5Wx+ruR3hK7HoIVj8WV2PyZuw+dVdQ==",
+  "dgSpecHash": "cNjQ6Tg3TVU29DFmrePwC6yuGrsdD7jn1fZRCSok4KH+x7ati+t3NWxqjEiIaS7Y66fC7tNetGY4aEJAum1JZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.Core\\AFS.Core.csproj",
+  "projectFilePath": "C:\\Github\\afs\\AFS.Core\\AFS.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\microsoft.entityframeworkcore\\2.0.0\\microsoft.entityframeworkcore.2.0.0.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\2.0.0\\microsoft.extensions.caching.abstractions.2.0.0.nupkg.sha512",

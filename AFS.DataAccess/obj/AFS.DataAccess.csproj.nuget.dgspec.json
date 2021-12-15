@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.DataAccess\\AFS.DataAccess.csproj": {}
+    "C:\\Github\\afs\\AFS.DataAccess\\AFS.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.Core\\AFS.Core.csproj": {
+    "C:\\Github\\afs\\AFS.Core\\AFS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.Core\\AFS.Core.csproj",
+        "projectUniqueName": "C:\\Github\\afs\\AFS.Core\\AFS.Core.csproj",
         "projectName": "AFS.Core",
-        "projectPath": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.Core\\AFS.Core.csproj",
+        "projectPath": "C:\\Github\\afs\\AFS.Core\\AFS.Core.csproj",
         "packagesPath": "C:\\Users\\ferdi.firat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.Core\\obj\\",
+        "outputPath": "C:\\Github\\afs\\AFS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferdi.firat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.DataAccess\\AFS.DataAccess.csproj": {
+    "C:\\Github\\afs\\AFS.DataAccess\\AFS.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.DataAccess\\AFS.DataAccess.csproj",
+        "projectUniqueName": "C:\\Github\\afs\\AFS.DataAccess\\AFS.DataAccess.csproj",
         "projectName": "AFS.DataAccess",
-        "projectPath": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.DataAccess\\AFS.DataAccess.csproj",
+        "projectPath": "C:\\Github\\afs\\AFS.DataAccess\\AFS.DataAccess.csproj",
         "packagesPath": "C:\\Users\\ferdi.firat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.DataAccess\\obj\\",
+        "outputPath": "C:\\Github\\afs\\AFS.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferdi.firat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,8 +91,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.Entity\\AFS.Entity.csproj": {
-                "projectPath": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.Entity\\AFS.Entity.csproj"
+              "C:\\Github\\afs\\AFS.Entity\\AFS.Entity.csproj": {
+                "projectPath": "C:\\Github\\afs\\AFS.Entity\\AFS.Entity.csproj"
               }
             }
           }
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.Entity\\AFS.Entity.csproj": {
+    "C:\\Github\\afs\\AFS.Entity\\AFS.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.Entity\\AFS.Entity.csproj",
+        "projectUniqueName": "C:\\Github\\afs\\AFS.Entity\\AFS.Entity.csproj",
         "projectName": "AFS.Entity",
-        "projectPath": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.Entity\\AFS.Entity.csproj",
+        "projectPath": "C:\\Github\\afs\\AFS.Entity\\AFS.Entity.csproj",
         "packagesPath": "C:\\Users\\ferdi.firat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.Entity\\obj\\",
+        "outputPath": "C:\\Github\\afs\\AFS.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferdi.firat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -167,8 +167,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.Core\\AFS.Core.csproj": {
-                "projectPath": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.Core\\AFS.Core.csproj"
+              "C:\\Github\\afs\\AFS.Core\\AFS.Core.csproj": {
+                "projectPath": "C:\\Github\\afs\\AFS.Core\\AFS.Core.csproj"
               }
             }
           }

@@ -12285,11 +12285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.DataAccess\\AFS.DataAccess.csproj",
+      "projectUniqueName": "C:\\Github\\afs\\AFS.DataAccess\\AFS.DataAccess.csproj",
       "projectName": "AFS.DataAccess",
-      "projectPath": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.DataAccess\\AFS.DataAccess.csproj",
+      "projectPath": "C:\\Github\\afs\\AFS.DataAccess\\AFS.DataAccess.csproj",
       "packagesPath": "C:\\Users\\ferdi.firat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.DataAccess\\obj\\",
+      "outputPath": "C:\\Github\\afs\\AFS.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferdi.firat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -12307,8 +12307,8 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.Entity\\AFS.Entity.csproj": {
-              "projectPath": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.Entity\\AFS.Entity.csproj"
+            "C:\\Github\\afs\\AFS.Entity\\AFS.Entity.csproj": {
+              "projectPath": "C:\\Github\\afs\\AFS.Entity\\AFS.Entity.csproj"
             }
           }
         }

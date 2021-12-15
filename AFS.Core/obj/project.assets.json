@@ -2837,11 +2837,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.Core\\AFS.Core.csproj",
+      "projectUniqueName": "C:\\Github\\afs\\AFS.Core\\AFS.Core.csproj",
       "projectName": "AFS.Core",
-      "projectPath": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.Core\\AFS.Core.csproj",
+      "projectPath": "C:\\Github\\afs\\AFS.Core\\AFS.Core.csproj",
       "packagesPath": "C:\\Users\\ferdi.firat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.Core\\obj\\",
+      "outputPath": "C:\\Github\\afs\\AFS.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferdi.firat\\AppData\\Roaming\\NuGet\\NuGet.Config",

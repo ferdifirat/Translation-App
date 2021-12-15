@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1KCQvHqdvjwYC+Of7QzhxLXK4jPuzcavJtYpI4GE/ID63uI1LYwjVzrJihdwajqoKRSCJeaRPtrela5ZvFI1bA==",
+  "dgSpecHash": "nu1zNPg0WuuKM2BKyVwu78w0ZdVcZEo5kXhj8Yf3nPzJFX70VpwDK/vqwRHv54yziOdchizPakBHHWMj4IRq3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.Entity\\AFS.Entity.csproj",
+  "projectFilePath": "C:\\Github\\afs\\AFS.Entity\\AFS.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",

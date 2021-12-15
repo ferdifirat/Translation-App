@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NdvZe0D9SN6LTJmNhXMjX+avmVFAkFt6r87C7ibEM58RRjDosD4o35Kbp0TDaJcpvbGbNzyNNgU8wQ0nLZF4hQ==",
+  "dgSpecHash": "NXyIdSMKW+lHZq/4TSDuwWMUal20nL47VqwXC61Mur8jI65NoU5DyFBguWvS8oFNA56jS3/9OAqGJEoEY2jlAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AspNetCoreIdentityExample\\AFS.WebApp.csproj",
+  "projectFilePath": "C:\\Github\\afs\\AspNetCoreIdentityExample\\AFS.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",

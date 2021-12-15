@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WCNdCT1BdY3EDXYyVo09nTOLvzZlda8kClaKaz3gsD+4Qm/SCH9Lmac72FJV7K0B9crQabPDAUB3gip1I3f3WA==",
+  "dgSpecHash": "xwoazf1q4aOnU2xdUjOApgWKVMrmL8SmvdUmTAvdzILokLz5XU2cjuatW/OWa4to53YBTAzxLlETysU6qsWFLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ferdi.firat\\Desktop\\ıdentity\\AFS.DataAccess\\AFS.DataAccess.csproj",
+  "projectFilePath": "C:\\Github\\afs\\AFS.DataAccess\\AFS.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",

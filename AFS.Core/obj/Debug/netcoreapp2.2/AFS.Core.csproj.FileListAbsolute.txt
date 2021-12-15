@@ -1,0 +1,10 @@
+C:\Users\ferdi.firat\Desktop\ıdentity\AFS.Core\bin\Debug\netcoreapp2.2\AFS.Core.deps.json
+C:\Users\ferdi.firat\Desktop\ıdentity\AFS.Core\bin\Debug\netcoreapp2.2\AFS.Core.dll
+C:\Users\ferdi.firat\Desktop\ıdentity\AFS.Core\bin\Debug\netcoreapp2.2\AFS.Core.pdb
+C:\Users\ferdi.firat\Desktop\ıdentity\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.csproj.AssemblyReference.cache
+C:\Users\ferdi.firat\Desktop\ıdentity\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferdi.firat\Desktop\ıdentity\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.AssemblyInfoInputs.cache
+C:\Users\ferdi.firat\Desktop\ıdentity\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.AssemblyInfo.cs
+C:\Users\ferdi.firat\Desktop\ıdentity\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.csproj.CoreCompileInputs.cache
+C:\Users\ferdi.firat\Desktop\ıdentity\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.dll
+C:\Users\ferdi.firat\Desktop\ıdentity\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.pdb

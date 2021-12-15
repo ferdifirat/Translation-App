@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "AFS.Entity/1.0.0": {
+        "dependencies": {
+          "AFS.Core": "1.0.0"
+        },
+        "runtime": {
+          "AFS.Entity.dll": {}
+        }
+      },
+      "AFS.Core/1.0.0": {
+        "runtime": {
+          "AFS.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AFS.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AFS.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

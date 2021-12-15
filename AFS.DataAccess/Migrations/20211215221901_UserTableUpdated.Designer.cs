@@ -3,15 +3,17 @@ using System;
 using AFS.DataAccess.Models.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 namespace AFS.DataAccess.Migrations
 {
     [DbContext(typeof(AppDbContext2))]
-    partial class AppDbContext2ModelSnapshot : ModelSnapshot
+    [Migration("20211215221901_UserTableUpdated")]
+    partial class UserTableUpdated
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

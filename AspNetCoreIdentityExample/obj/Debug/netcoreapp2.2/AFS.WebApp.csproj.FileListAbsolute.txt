@@ -76,3 +76,5 @@ C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\AFS.WebApp.cspro
 C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\AFS.WebApp.genruntimeconfig.cache
 C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs

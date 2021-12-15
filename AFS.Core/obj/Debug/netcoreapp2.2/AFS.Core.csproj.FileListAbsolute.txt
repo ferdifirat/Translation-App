@@ -8,3 +8,12 @@ C:\Users\ferdi.firat\Desktop\ıdentity\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core
 C:\Users\ferdi.firat\Desktop\ıdentity\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.csproj.CoreCompileInputs.cache
 C:\Users\ferdi.firat\Desktop\ıdentity\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.dll
 C:\Users\ferdi.firat\Desktop\ıdentity\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.pdb
+C:\Github\afs\AFS.Core\bin\Debug\netcoreapp2.2\AFS.Core.deps.json
+C:\Github\afs\AFS.Core\bin\Debug\netcoreapp2.2\AFS.Core.dll
+C:\Github\afs\AFS.Core\bin\Debug\netcoreapp2.2\AFS.Core.pdb
+C:\Github\afs\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\afs\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.AssemblyInfoInputs.cache
+C:\Github\afs\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.AssemblyInfo.cs
+C:\Github\afs\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.csproj.CoreCompileInputs.cache
+C:\Github\afs\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.dll
+C:\Github\afs\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.pdb

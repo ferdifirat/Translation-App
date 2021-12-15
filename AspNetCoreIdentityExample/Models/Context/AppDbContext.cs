@@ -13,6 +13,5 @@ namespace AFS.WebApp.Models.Context
     {
         public AppDbContext(DbContextOptions<AppDbContext> dbContext) : base(dbContext) { }
 
-        public DbSet<Test> Test { get; set; }
     }
 }

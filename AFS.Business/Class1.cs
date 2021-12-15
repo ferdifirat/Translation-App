@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AFS.Entity
+namespace AFS.Business
 {
     public class Class1
     {

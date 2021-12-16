@@ -2,6 +2,6 @@
 {
     public class FunTranslationRequestModel
     {
-        public string Text { get; set; }
+        public string text { get; set; }
     }
 }

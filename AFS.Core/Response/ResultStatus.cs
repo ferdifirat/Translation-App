@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace AFS.Core.Response
+﻿namespace AFS.Core.Response
 {
     public class ResultStatus
     {

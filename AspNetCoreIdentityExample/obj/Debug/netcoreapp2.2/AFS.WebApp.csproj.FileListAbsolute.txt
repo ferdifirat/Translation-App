@@ -58,13 +58,6 @@ C:\Github\afs\AspNetCoreIdentityExample\bin\Debug\netcoreapp2.2\AFS.Entity.dll
 C:\Github\afs\AspNetCoreIdentityExample\bin\Debug\netcoreapp2.2\AFS.Core.pdb
 C:\Github\afs\AspNetCoreIdentityExample\bin\Debug\netcoreapp2.2\AFS.DataAccess.pdb
 C:\Github\afs\AspNetCoreIdentityExample\bin\Debug\netcoreapp2.2\AFS.Entity.pdb
-C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
-C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
-C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
-C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_IdentityLayout.cshtml.g.cs
-C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
-C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
-C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
 C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
@@ -78,3 +71,5 @@ C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\Razor\Views\_Vie
 C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
 C:\Github\afs\AspNetCoreIdentityExample\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+C:\Github\afs\AspNetCoreIdentityExample\bin\Debug\netcoreapp2.2\AFS.Business.dll
+C:\Github\afs\AspNetCoreIdentityExample\bin\Debug\netcoreapp2.2\AFS.Business.pdb

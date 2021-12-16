@@ -2,7 +2,54 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+@if (User.Identity.IsAuthenticated)
+{
+    <form class="form-inline">
+        <div class="form-group mx-sm-3 mb-2">
+            <label for="translation" class="sr-only"></label>
+            <input type="text" class="form-control" id="translation" placeholder="">
+        </div>
+        <button type="button" id="translate" class="btn btn-primary mb-2">Translate</button>
+
+
+    </form>
+    <div class="form-group mx-sm-3 mb-2" style="display:none" id="message">
+        <div class="alert alert-primary" role="alert" id="translatedText">
+        </div>
+    </div>
+}
+else
+{
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    </div>
+
+}
+
+<script type="text/javascript">
+    $(document)
+        .on('click', '#translate', function (e) {
+            debugger;
+            var test = $("#translation").val();
+            $.ajax({
+                url: "/TranslationHistory/Add",
+                type: "POST",
+                dataType: "json",
+                data: { Text: test },
+                success: function (data) {
+                    debugger
+                    if (data.result == true) {
+                        alertify.error(data.feedBack);
+                        $('#translatedText').html(data.object.translated)
+                        $('#message').show();
+                    }
+                    else {
+                        alertify.success(data.feedBack);
+                        $('#translation').val("");
+                        $('#message').hide();
+                    }
+                }
+            });
+        });
+</script>

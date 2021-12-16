@@ -1,4 +1,6 @@
 ﻿using AFS.Business.CustomExtensions;
+using AFS.Core;
+using AFS.Core.DataAccess.EntityFramework;
 using AFS.DataAccess.Models.Context;
 using AspNetCoreIdentityExample.Models.Authentication;
 using Microsoft.AspNetCore.Builder;
@@ -21,6 +23,8 @@ namespace AspNetCoreIdentityExample
             services.AddIdentity<User, IdentityRole>().AddEntityFrameworkStores<AppDbContext2>();
             services.AddMvc();
             services.AddTransient<IHttpContextAccessor, HttpContextAccessor>();
+            services.AddScoped<DbContext>(provider => provider.GetService<AppDbContext2>());
+            services.AddScoped(typeof(IEntityRepository<>), typeof(efRepositoryBase<>));
 
             services.AddBusinessModule(Configuration);
         }

@@ -36,7 +36,7 @@ namespace AFS.Business.Concrete
             {
                 var resp = _client.PostAsync<FunTranslationRequestModel, FunTranslationResponseModel>($"{_funTranslationUrl}", new FunTranslationRequestModel()
                 {
-                    Text = translationHistoryDto.Text
+                    text = translationHistoryDto.Text
                 }).Result;
 
                 var translation = new TranslationHistory()

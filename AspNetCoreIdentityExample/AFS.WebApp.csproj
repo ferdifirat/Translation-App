@@ -20,6 +20,8 @@
     <None Include="Views\Shared\_Layout.cshtml" />
     <None Include="Views\Shared\_LoginPartial.cshtml" />
     <None Include="Views\Shared\_ValidationScriptsPartial.cshtml" />
+    <None Include="wwwroot\alertify\alertify.js" />
+    <None Include="wwwroot\alertify\alertify.min.js" />
     <None Include="wwwroot\js\site.js" />
     <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map" />
     <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" />
@@ -56,6 +58,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AFS.Business\AFS.Business.csproj" />
     <ProjectReference Include="..\AFS.Core\AFS.Core.csproj" />
     <ProjectReference Include="..\AFS.DataAccess\AFS.DataAccess.csproj" />
     <ProjectReference Include="..\AFS.Entity\AFS.Entity.csproj" />

@@ -17,3 +17,4 @@ C:\Github\afs\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.AssemblyInfo.cs
 C:\Github\afs\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.csproj.CoreCompileInputs.cache
 C:\Github\afs\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.dll
 C:\Github\afs\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.pdb
+C:\Github\afs\AFS.Core\obj\Debug\netcoreapp2.2\AFS.Core.csproj.AssemblyReference.cache

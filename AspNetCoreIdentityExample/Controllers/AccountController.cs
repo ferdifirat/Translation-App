@@ -47,7 +47,6 @@ namespace AFS.WebApp.Controllers
                     ModelState.AddModelError("", error.Description);
 
                 ModelState.AddModelError(string.Empty, "Invalid Login Attempt");
-
             }
             return View(model);
         }
@@ -57,16 +56,6 @@ namespace AFS.WebApp.Controllers
         [AllowAnonymous]
         public IActionResult Login()
         {
-
-            //var branch = new Branch
-            //{
-            //    branchName = "Regie",
-            //    address = "Naval"
-
-            //};
-            //branchContext.Branch.Add(branch);
-            //branchContext.SaveChanges();
-
             return View();
         }
         [HttpPost]

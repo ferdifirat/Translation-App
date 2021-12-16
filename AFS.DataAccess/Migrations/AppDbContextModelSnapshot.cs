@@ -3,17 +3,15 @@ using System;
 using AFS.DataAccess.Models.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
-using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 namespace AFS.DataAccess.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20211215221901_UserTableUpdated")]
-    partial class UserTableUpdated
+    partial class AppDbContextModelSnapshot : ModelSnapshot
     {
-        protected override void BuildTargetModel(ModelBuilder modelBuilder)
+        protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -49,7 +47,7 @@ namespace AFS.DataAccess.Migrations
                     b.ToTable("TranslationHistory");
                 });
 
-            modelBuilder.Entity("AspNetCoreIdentityExample.Models.Authentication.User", b =>
+            modelBuilder.Entity("AFS.Models.Authentication.User", b =>
                 {
                     b.Property<string>("Id")
                         .ValueGeneratedOnAdd();
@@ -212,7 +210,7 @@ namespace AFS.DataAccess.Migrations
 
             modelBuilder.Entity("AFS.Entity.Concrete.TranslationHistory", b =>
                 {
-                    b.HasOne("AspNetCoreIdentityExample.Models.Authentication.User", "CreatedByUser")
+                    b.HasOne("AFS.Models.Authentication.User", "CreatedByUser")
                         .WithMany()
                         .HasForeignKey("CreatedByUserId");
                 });
@@ -227,7 +225,7 @@ namespace AFS.DataAccess.Migrations
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserClaim<string>", b =>
                 {
-                    b.HasOne("AspNetCoreIdentityExample.Models.Authentication.User")
+                    b.HasOne("AFS.Models.Authentication.User")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade);
@@ -235,7 +233,7 @@ namespace AFS.DataAccess.Migrations
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<string>", b =>
                 {
-                    b.HasOne("AspNetCoreIdentityExample.Models.Authentication.User")
+                    b.HasOne("AFS.Models.Authentication.User")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade);
@@ -248,7 +246,7 @@ namespace AFS.DataAccess.Migrations
                         .HasForeignKey("RoleId")
                         .OnDelete(DeleteBehavior.Cascade);
 
-                    b.HasOne("AspNetCoreIdentityExample.Models.Authentication.User")
+                    b.HasOne("AFS.Models.Authentication.User")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade);
@@ -256,7 +254,7 @@ namespace AFS.DataAccess.Migrations
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserToken<string>", b =>
                 {
-                    b.HasOne("AspNetCoreIdentityExample.Models.Authentication.User")
+                    b.HasOne("AFS.Models.Authentication.User")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade);

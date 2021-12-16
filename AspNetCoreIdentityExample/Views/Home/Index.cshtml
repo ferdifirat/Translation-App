@@ -22,7 +22,6 @@ else
 {
     <div class="text-center">
         <h1 class="display-4">Welcome</h1>
-        <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
     </div>
 
 }
@@ -30,21 +29,24 @@ else
 <script type="text/javascript">
     $(document)
         .on('click', '#translate', function (e) {
-            var test = $("#translation").val();
+            var text = $("#translation").val();
+            if (text === "") {
+                alertify.error('Text field is required');
+                return;
+            }
             $.ajax({
                 url: "/TranslationHistory/Add",
                 type: "POST",
                 dataType: "json",
-                data: { Text: test },
+                data: { Text: text },
                 success: function (data) {
-                    debugger
                     if (data.result == true) {
-                        alertify.error(data.feedBack);
+                        alertify.success(data.feedBack);
                         $('#translatedText').html(data.object.translated)
                         $('#message').show();
                     }
                     else {
-                        alertify.success(data.feedBack);
+                        alertify.error(data.feedBack);
                         $('#translation').val("");
                         $('#message').hide();
                     }

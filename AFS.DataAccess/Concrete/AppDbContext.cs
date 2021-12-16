@@ -1,5 +1,5 @@
 ﻿using AFS.Entity.Concrete;
-using AspNetCoreIdentityExample.Models.Authentication;
+using AFS.Models.Authentication;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 

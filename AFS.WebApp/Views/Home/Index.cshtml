@@ -32,6 +32,7 @@ else
             var text = $("#translation").val();
             if (text === "") {
                 alertify.error('Text field is required');
+                $('#message').hide();
                 return;
             }
             $.ajax({

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cNjQ6Tg3TVU29DFmrePwC6yuGrsdD7jn1fZRCSok4KH+x7ati+t3NWxqjEiIaS7Y66fC7tNetGY4aEJAum1JZw==",
+  "dgSpecHash": "9ssaGI1Jf9pCuap8ybtzBa6iirlAoJAYISK3zceKQAZcD90JyHVr9n65Mg2LdrPXV/g6Q6DSr7JztzvV0hiFJA==",
   "success": true,
   "projectFilePath": "C:\\Github\\afs\\AFS.Core\\AFS.Core.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ferdi.firat\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\remotion.linq\\2.1.1\\remotion.linq.2.1.1.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\system.collections.immutable\\1.4.0\\system.collections.immutable.1.4.0.nupkg.sha512",

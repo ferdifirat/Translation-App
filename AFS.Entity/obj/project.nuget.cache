@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nu1zNPg0WuuKM2BKyVwu78w0ZdVcZEo5kXhj8Yf3nPzJFX70VpwDK/vqwRHv54yziOdchizPakBHHWMj4IRq3A==",
+  "dgSpecHash": "qwK5UNzCRC9AlCXiC5NVKOsHnojMRE0y7fQygP14VgEvkfXwc0dvYTt42ZBPSO6IOoOIUvlHPSQgB1JOav0zVg==",
   "success": true,
   "projectFilePath": "C:\\Github\\afs\\AFS.Entity\\AFS.Entity.csproj",
   "expectedPackageFiles": [
@@ -176,7 +176,7 @@
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\ferdi.firat\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\ferdi.firat\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\remotion.linq\\2.2.0\\remotion.linq.2.2.0.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

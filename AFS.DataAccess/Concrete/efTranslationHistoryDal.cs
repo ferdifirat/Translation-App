@@ -5,9 +5,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace AFS.DataAccess.Concrete
 {
-    public class efTranslationHistory : efRepositoryBase<TranslationHistory>, ITranslationHistoryDal
+    public class efTranslationHistoryDal : efRepositoryBase<TranslationHistory>, ITranslationHistoryDal
     {
-        public efTranslationHistory(DbContext dbContext) : base(dbContext)
+        public efTranslationHistoryDal(DbContext dbContext) : base(dbContext)
         {
         }
     }

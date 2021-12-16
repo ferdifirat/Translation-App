@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NXyIdSMKW+lHZq/4TSDuwWMUal20nL47VqwXC61Mur8jI65NoU5DyFBguWvS8oFNA56jS3/9OAqGJEoEY2jlAA==",
+  "dgSpecHash": "X7tGOf81p6qXdJF2pZK/WAtdEEUkSsyUB1kbHXIWGvp/+GANhs3N239krvU0UwzsMQHiLR/FV6WIPmAvTvfQmA==",
   "success": true,
   "projectFilePath": "C:\\Github\\afs\\AspNetCoreIdentityExample\\AFS.WebApp.csproj",
   "expectedPackageFiles": [
@@ -186,7 +186,7 @@
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\microsoft.visualstudio.web.codegenerators.mvc\\2.2.3\\microsoft.visualstudio.web.codegenerators.mvc.2.2.3.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\ferdi.firat\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\ferdi.firat\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\npgsql\\4.0.4\\npgsql.4.0.4.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\2.2.0\\npgsql.entityframeworkcore.postgresql.2.2.0.nupkg.sha512",

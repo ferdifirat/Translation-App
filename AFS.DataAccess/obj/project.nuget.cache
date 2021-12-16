@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xwoazf1q4aOnU2xdUjOApgWKVMrmL8SmvdUmTAvdzILokLz5XU2cjuatW/OWa4to53YBTAzxLlETysU6qsWFLg==",
+  "dgSpecHash": "J4OSoNd6H7GjdizwdVWbQoCx+4FVFOMuc+6La7O2f7R1qxDE+DBPQskT7Q4DLP+kVPUxRs6N7Z/yohdaPxCNDw==",
   "success": true,
   "projectFilePath": "C:\\Github\\afs\\AFS.DataAccess\\AFS.DataAccess.csproj",
   "expectedPackageFiles": [
@@ -176,7 +176,7 @@
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\ferdi.firat\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\ferdi.firat\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\npgsql\\4.0.4\\npgsql.4.0.4.nupkg.sha512",
     "C:\\Users\\ferdi.firat\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\2.2.0\\npgsql.entityframeworkcore.postgresql.2.2.0.nupkg.sha512",

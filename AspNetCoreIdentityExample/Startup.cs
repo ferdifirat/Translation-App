@@ -1,7 +1,9 @@
-﻿using AFS.DataAccess.Models.Context;
+﻿using AFS.Business.CustomExtensions;
+using AFS.DataAccess.Models.Context;
 using AspNetCoreIdentityExample.Models.Authentication;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -18,6 +20,9 @@ namespace AspNetCoreIdentityExample
             services.AddDbContext<AppDbContext2>(options => options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"), b => b.MigrationsAssembly("AFS.DataAccess")));
             services.AddIdentity<User, IdentityRole>().AddEntityFrameworkStores<AppDbContext2>();
             services.AddMvc();
+            services.AddTransient<IHttpContextAccessor, HttpContextAccessor>();
+
+            services.AddBusinessModule(Configuration);
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)

@@ -3,8 +3,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
-using AspNetCoreIdentityExample.Models.Authentication;
-
+using AFS.Models.Authentication;
 namespace AFS.WebApp.Controllers
 {
     public class AccountController : Controller

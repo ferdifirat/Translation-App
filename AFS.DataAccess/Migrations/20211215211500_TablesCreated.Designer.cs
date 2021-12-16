@@ -9,7 +9,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 namespace AFS.DataAccess.Migrations
 {
-    [DbContext(typeof(AppDbContext2))]
+    [DbContext(typeof(AppDbContext))]
     [Migration("20211215211500_TablesCreated")]
     partial class TablesCreated
     {

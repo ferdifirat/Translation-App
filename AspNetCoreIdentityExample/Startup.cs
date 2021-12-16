@@ -2,7 +2,7 @@
 using AFS.Core;
 using AFS.Core.DataAccess.EntityFramework;
 using AFS.DataAccess.Models.Context;
-using AspNetCoreIdentityExample.Models.Authentication;
+using AFS.Models.Authentication;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -19,11 +19,11 @@ namespace AspNetCoreIdentityExample
         public Startup(IConfiguration configuration) => Configuration = configuration;
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<AppDbContext2>(options => options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"), b => b.MigrationsAssembly("AFS.DataAccess")));
-            services.AddIdentity<User, IdentityRole>().AddEntityFrameworkStores<AppDbContext2>();
+            services.AddDbContext<AppDbContext>(options => options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"), b => b.MigrationsAssembly("AFS.DataAccess")));
+            services.AddIdentity<User, IdentityRole>().AddEntityFrameworkStores<AppDbContext>();
             services.AddMvc();
             services.AddTransient<IHttpContextAccessor, HttpContextAccessor>();
-            services.AddScoped<DbContext>(provider => provider.GetService<AppDbContext2>());
+            services.AddScoped<DbContext>(provider => provider.GetService<AppDbContext>());
             services.AddScoped(typeof(IEntityRepository<>), typeof(efRepositoryBase<>));
 
             services.AddBusinessModule(Configuration);

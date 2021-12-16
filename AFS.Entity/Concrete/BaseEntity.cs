@@ -1,4 +1,4 @@
-﻿using AspNetCoreIdentityExample.Models.Authentication;
+﻿using AFS.Models.Authentication;
 using System;
 
 namespace AFS.Entity.Concrete

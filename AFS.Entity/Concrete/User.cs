@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 
-namespace AspNetCoreIdentityExample.Models.Authentication
+namespace AFS.Models.Authentication
 {
     public class User : IdentityUser
     {

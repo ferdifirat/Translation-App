@@ -5,11 +5,10 @@ using AFS.Core.Response;
 using AFS.DataAccess.Abstract;
 using AFS.Entity.Concrete;
 using AFS.Entity.Dtos;
-using AspNetCoreIdentityExample.Models.Authentication;
+using AFS.Models.Authentication;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using System;
-using System.Threading.Tasks;
 
 namespace AFS.Business.Concrete
 {

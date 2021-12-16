@@ -5,9 +5,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace AFS.DataAccess.Models.Context
 {
-    public class AppDbContext2 : IdentityDbContext<User>
+    public class AppDbContext : IdentityDbContext<User>
     {
-        public AppDbContext2(DbContextOptions<AppDbContext2> dbContext) : base(dbContext) { }
+        public AppDbContext(DbContextOptions<AppDbContext> dbContext) : base(dbContext) { }
 
         public DbSet<TranslationHistory> TranslationHistory { get; set; }
     }
